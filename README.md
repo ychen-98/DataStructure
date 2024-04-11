@@ -11,6 +11,17 @@ This repository contains my solutions and implementations for data structure hom
 
 This repository is a collection of data structure homework assignments that I completed as part of my coursework. Each folder corresponds to a different homework assignment and contains the code and documentation related to that assignment.
 
+## Homework Assignments
+
+Here's a list of the homework assignments included in this repository:
+
+- **Assignment 1**: Selection Sort Algorithm on Integers
+- **Assignment 2**: Occlusion Angle Calculator 
+- **Assignment 3**: N-Queens Problem Solver Using Stack
+- **Assignment 4**: Binary Search Tree (BST) for Integers  
+- **Assignment 5**: B-tree Implementation and Search
+- **Assignment 6**: Spell Checker and Word Suggestion Program
+
 ## Folder Structure
 
 The repository is organized as follows:
@@ -30,14 +41,4 @@ For each assignment folder, the realted files are:
 - README.txt: Specific details about the assignment and its requirements
 - makefile 
 
-## Homework Assignments
-
-Here's a list of the homework assignments included in this repository:
-
-- **Assignment 1**: Selection Sort Algorithm on Integers
-- **Assignment 2**: Occlusion Angle Calculator 
-- **Assignment 3**: N-Queens Problem Solver Using Stack
-- **Assignment 4**: Binary Search Tree (BST) for Integers  
-- **Assignment 5**: B-tree Implementation and Search
-- **Assignment 6**: Spell Checker and Word Suggestion Program
   
